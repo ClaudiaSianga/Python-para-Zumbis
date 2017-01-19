@@ -1,0 +1,7 @@
+Exercicio 01
+
+a=int(input("Digite o 1º numero: "))
+b=int(input("Digite o 2º numero: "))
+soma = a + b
+
+print(" A soma dos numeros é: %d" %soma)
